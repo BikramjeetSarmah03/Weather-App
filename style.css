@@ -34,7 +34,7 @@ body{
      height: 2.5em;
      width: 2.5em;
      outline: none;
-     background-color: #030303d0;
+     background-color: inherit;
      font-size: 40px;
      cursor: pointer;
 }
